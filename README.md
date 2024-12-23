@@ -9,15 +9,12 @@ When interpreting data visualizations, people have expectations of how colors sh
 
 ### Data files
 
-`Exp1.csv`, `Exp2.csv`, `Exp3.csv`, `Exp4.csv`, `Exp5.csv`: store the individual trial data from the colormaps task
+`Exp1.csv`, `Exp2.csv`, `Exp3.csv`, `Exp4.csv`, `Exp5.csv`: store the individual trial data from the colormaps task for each experiment. 
 
 
 ### Analysis file
 
-`ColormapWhat-dataProcessing.R`: R script for cleaning and organizing raw data. Takes files above as inputs. Creates a csv file for each participant that gets stored in the respective subfolder
-
-### Subfolders
-Each subfolder stores the output of the ColormapWhat-dataProcessing.R code - two files for each participant, one for their accuracy and one for their response times. These files are used as input into the Exp#_LoadInData_MAS.m files. 
+`ColormapWhat-dataProcessing.R`: R script for cleaning, organizing, and analyzing data. Takes files above as inputs. 
 
 
 
