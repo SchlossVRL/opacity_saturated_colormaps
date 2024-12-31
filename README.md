@@ -9,12 +9,12 @@ When interpreting data visualizations, people have expectations of how colors sh
 
 ### Data files
 
-`Exp1.csv`, `Exp2.csv`, `Exp3.csv`, `Exp4.csv`, `Exp5.csv`: store the individual trial data from the colormaps task for each experiment. 
+`Exp1.csv`, `Exp2.csv`, `Exp3.csv`, `Exp4.csv`, `SuppExp1.csv`: store the individual trial data from the colormaps task for each experiment. 
 
 
 ### Analysis file
 
-`ColormapWhat-dataProcessing.R`: R script for cleaning, organizing, and analyzing data. Takes files above as inputs. 
+`opacity_saturated_colormaps_dataProcessing.R`: R script for cleaning, organizing, and analyzing data. Takes files above as inputs. 
 
 
 
