@@ -5,7 +5,7 @@ When interpreting data visualizations, people have expectations of how colors sh
 
 ---
 
-## FFOLDER: Data analysis
+## FOLDER: Data analysis
 
 ### Data files
 
